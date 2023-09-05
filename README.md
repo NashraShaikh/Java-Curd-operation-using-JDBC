@@ -4,13 +4,16 @@ JDBC CRUD operations by using the five basic steps will provide the overview of 
 Project Name: Student CRUD Operation in Java
 
 Objective:
+
 To create a simple Java Console application to perform basic CRUD (Create, Read, Update, Delete) operations for Student profiles.
 
 Technologies Used:
+
 . Eclipse IDE for Java Developers - 2023-06
 . My SQL for the database
 
 Steps to follow:
+
 . Create the database table for Student profiles using MySQL.
 . Develop the user interface using Java with the following functionalities:
 . Add a new student profile
