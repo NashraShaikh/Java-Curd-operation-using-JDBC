@@ -15,18 +15,13 @@ Technologies Used:
 Steps to follow:
 
 1. Create the database table for Student profiles using MySQL.
-2. Develop the user interface using Java with the following functionalities:
-3. Add a new student profile
-4. View all student profiles
-5. Update existing student profile
-6. Delete student profile
-7. Implement the database connectivity using Java JDBC API.
-8. Perform the CRUD operations using MySQL query statements.
-9. Test the application by adding, viewing, updating and deleting student profiles.
+2. Implement the database connectivity using Java JDBC API.
+3. Perform the CRUD operations using MySQL query statements.
+4. Test the application by adding, viewing, updating and deleting student profiles.
 
 Conclusion:
 
-This project helps to understand the basic CRUD operations in Java using MySQL as the database and Java as the user interface.
+This project helps to understand the basic CRUD operations in Java using MySQL as the database.
 
 JDBC CRUD operations concepts by using the five steps :
 1. Load/Registering the driver
